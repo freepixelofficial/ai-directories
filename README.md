@@ -215,7 +215,11 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
 
-# Add Yours
+# FreePixel
+- [FreePixel Image Generator](https://www.freepixel.com/ai-tools?tool=text-to-image) - Text-to-Image AI Generator by Freepixel
+
+
+
 
 Feel Free to add your AI Directory To this list
 

@@ -213,7 +213,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## Y
 
-- [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
+- [FreePixel AI Image Generator]((https://www.freepixel.com/ai-tools/generate-image ) - Yet Another AI Tool Directory
+- [FreePixel AI Image Generator]() - FreePixel AI Image Generator
 
 # Add Yours
 
